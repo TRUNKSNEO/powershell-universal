@@ -1,62 +1,13 @@
 # PowerShell Universal by Devolutions - Issues
 
-## 🥳 [PowerShell Universal Joins Devolutions](https://blog.ironmansoftware.com/powershell-universal-joins-devolutions)
+## Heads up: We're moving to the Devolutions forum
 
-## Community
+We have an important update for everyone in this community. Starting Monday, May 11th, 2026, bug and feature requests will be opened on the Devolutions forum — the new home for all PowerShell Universal conversations. You can access it [here](https://forum.devolutions.net/).
 
-- [💬 Discord](https://discord.gg/Sb5ngcjkj4)
-- [Forum](https://forums.ironmansoftware.com)
+We will be migrating existing issues to our internal tracker.
 
-## Featured Lists
+Please note that this GitHub repository will be taken archived as of Monday, May 11th, 2026, so be sure to bookmark the new space before then.
 
-Find issues popular with other users.
+Want to learn more about what the acquisition by Devolutions means for the community? Read the full story here: [PowerShell Universal joins Devolutions: a new chapter in IT automation](https://devolutions.net/blog/powershell-universal-joins-devolutions-a-new-chapter-in-it-automation/).
 
-- [Most popular open features](https://github.com/ironmansoftware/powershell-universal/issues?q=is%3Aissue%20state%3Aopen%20type%3AFeature%20sort%3Areactions-desc)
-- [Most popular open bugs](https://github.com/ironmansoftware/powershell-universal/issues?q=is%3Aissue%20state%3Aopen%20type%3ABug%20sort%3Areactions-desc)
-- [App Issues](https://github.com/ironmansoftware/powershell-universal/labels/Area-Apps)
-- [Admin Console Issues](https://github.com/ironmansoftware/powershell-universal/labels/Area-AdminConsole)
-
-## Issue Prioritization 
-
-We determine which issues to implement in each milestone based on the following critieria. 
-
-- Impactful bugs 🐛
-  - [Critical](https://github.com/ironmansoftware/powershell-universal/labels/P1%20-%20critical)
-  - [High](https://github.com/ironmansoftware/powershell-universal/labels/P2%20-%20high)
-  - [Medium](https://github.com/ironmansoftware/powershell-universal/labels/P3%20-%20medium)
-  - [Low](https://github.com/ironmansoftware/powershell-universal/labels/P4%20-%20low)
-- [Issues from Support Tickets 🎫](https://github.com/ironmansoftware/powershell-universal/labels/support%20ticket) 
-- [Highly upvoted features 👍, 🎉](https://github.com/ironmansoftware/powershell-universal/issues?q=is%3Aissue%20state%3Aopen%20type%3AFeature%20sort%3Areactions-desc)
-- Issue Size 🦣
-  - [X-Large](https://github.com/ironmansoftware/powershell-universal/labels/Size%20-%20XL)
-  - [Large](https://github.com/ironmansoftware/powershell-universal/labels/Size%20-%20L)
-  - [Medium](https://github.com/ironmansoftware/powershell-universal/labels/Size%20-%20M)
-  - [Small](https://github.com/ironmansoftware/powershell-universal/labels/Size%20-%20S)
-  - [X-Small](https://github.com/ironmansoftware/powershell-universal/labels/Size%20-%20XS)
-- Version 🔢
-  - [v5](https://github.com/ironmansoftware/powershell-universal/issues?q=is%3Aissue%20state%3Aopen%20label%3Av5)
-  - [v4](https://github.com/ironmansoftware/powershell-universal/issues?q=is%3Aissue%20state%3Aopen%20label%3Av4)
-
-## When to Open an Issue
-
-We accept issues on this tracker that are related to bugs and feature requests for PowerShell Universal. If you have a technical question, we encourage you to ask it on our [forums](https://forums.ironmansoftware.com). If you require direct assistance and have purchased a license that includes support, you can open a support case by emailing support@ironmansoftware.com. 
-
-## Other Repositories
-
-- [Documentation](https://github.com/ironmansoftware/universal-docs)
-- [VS Code Extension](https://github.com/ironmansoftware/universal-code)
-- [Translations](https://github.com/ironmansoftware/powershell-universal-translation)
-
-## Issue Templates
-
-We have several issue templates. Please select the correct template for either a feature request or a bug.
-## [Full Resource List](https://github.com/ironmansoftware/awesome-powershell-universal)
-## Quick Resources
-
-- [Forums](https://forums.ironmansoftware.com)
-- [Documentation](https://docs.powershelluniversal.com)
-- [YouTube Videos](https://www.youtube.com/c/AdamDriscoll)
-
-## Milestone
-
-The milestone will include the release that the issue is expected or already fixed in. 
+We look forward to seeing you on the Devolutions forum.
