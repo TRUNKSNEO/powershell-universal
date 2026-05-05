@@ -6,7 +6,7 @@ We have an important update for everyone in this community. Starting Monday, May
 
 We will be migrating existing issues to our internal tracker.
 
-Please note that this GitHub repository will be taken archived as of Monday, May 11th, 2026, so be sure to bookmark the new space before then.
+Please note that this GitHub repository will be archived as of Monday, May 11th, 2026, so be sure to bookmark the new space before then.
 
 Want to learn more about what the acquisition by Devolutions means for the community? Read the full story here: [PowerShell Universal joins Devolutions: a new chapter in IT automation](https://devolutions.net/blog/powershell-universal-joins-devolutions-a-new-chapter-in-it-automation/).
 
