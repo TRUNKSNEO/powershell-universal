@@ -2,7 +2,7 @@
 
 ## Heads up: We're moving to the Devolutions forum
 
-We have an important update for everyone in this community. Starting Monday, May 11th, 2026, bug and feature requests will be opened on the Devolutions forum — the new home for all PowerShell Universal conversations. You can access it [here](https://forum.devolutions.net/).
+We have an important update for everyone in this community. Starting Monday, May 11th, 2026, bug and feature requests should be opened on the Devolutions forum — the new home for all PowerShell Universal conversations. You can access it [here](https://forum.devolutions.net/).
 
 We will be migrating existing issues to our internal tracker.
 
